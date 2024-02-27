@@ -1,0 +1,11 @@
+.carrito {
+    cursor: pointer;
+    color: white;
+    text-align: right;
+
+    width: 120px;
+}
+.carrito:hover{
+  opacity: 0.7;
+}
+

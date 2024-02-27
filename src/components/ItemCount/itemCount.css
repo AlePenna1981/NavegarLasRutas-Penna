@@ -1,0 +1,24 @@
+
+.btn2{
+    border: none;
+    outline: 0;
+    padding: 10px;
+    margin: 7px;
+    color: white;
+    background-color: steelblue;
+    text-align: center;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 9px;
+  
+}
+
+.btn2:hover{
+    opacity: 0.7;
+}
+.caja2{
+    display: flex;
+    padding: 5px;
+    border: none;
+    
+}

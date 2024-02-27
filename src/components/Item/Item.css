@@ -1,0 +1,36 @@
+.img{
+    padding: 30px;
+    width: 100%;
+}
+
+
+.card{
+    padding: 20px;
+    margin: 21px;
+    width: 400px;
+    justify-content: center;
+    border: 2px rgb(205, 199, 199) solid;
+    text-align: center;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+.btn3{
+    border: none;
+    outline: 0;
+    padding: 10px;
+    margin-bottom: 7px;
+    color: white;
+    background-color: steelblue;
+    text-align: center;
+    cursor: pointer;
+    width: 50%;
+    font-size: 15px;
+    border-radius: 9px;
+    justify-content: center;
+}
+.btn3:hover{
+    opacity: 0.7;
+}
+.card-text{
+    font-size: larger;
+}

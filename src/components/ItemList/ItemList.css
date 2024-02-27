@@ -1,0 +1,22 @@
+.containerPrincipal{
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),
+    url("../../bajos6.jpg");
+    background-color: rgb(174, 177, 179);
+}
+.pTitle{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: 95px;
+    font-weight: bolder;
+}
+.sTitle{
+    width: 100%;
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}
