@@ -1,21 +1,19 @@
-.title{
-    color: rgb(80, 44, 44);
-    text-align: center;
-    margin-top: 15px;
-    padding: 20px;
-
+.title {
+  color: rgb(80, 44, 44);
+  text-align: center;
+  margin-top: 15px;
+  padding: 20px;
 }
-.container{
-    display: flex;
-    width: 100%;
-    justify-content:space-evenly;
-    flex-wrap: wrap;
-    text-align: center;
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  text-align: center;
 }
-.pbrand{
-    font-size: 100px;
-    color: white;
-    font-weight: bolder;
-    text-align: center;
-    
+.pbrand {
+  font-size: 100px;
+  color: white;
+  font-weight: bolder;
+  text-align: center;
 }
