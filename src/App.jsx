@@ -11,7 +11,7 @@ export const App = () => {
     <>
       <CartContexProvider>
         <BrowserRouter>
-            <NavBar /> 
+             <NavBar /> 
               <Routes>
                 <Route path="/" element={<ItemListContainer />} />
                 <Route path="/type/:type" element={<ItemListContainer />} />
